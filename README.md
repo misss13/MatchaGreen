@@ -1,2 +1,7 @@
 # MatchaGreen
-MatchaGreen discord app green theme
+MatchaGreen is a green theme for Revenge/Kettu.
+
+### Based on:
+[Aetheris](https://github.com/AsterionXeity/Aetheris/tree/main) and Cosmica but green.
+
+![MatchaGreen](https://raw.githubusercontent.com/misss13/MatchaGreen/refs/heads/main/matchatheme.png)
