@@ -19,7 +19,7 @@
       "#769d5d"
     ],
     "BACKGROUND_FLOATING": [
-      "#80a16a"
+      "#6d7667"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
       "rgba(24, 90, 32, 0.1)"
@@ -247,19 +247,19 @@
       "#20231b"
     ],
     "BACKGROUND_SURFACE_HIGH": [
-      "#80a16a"
+      "#6d7667"
     ],
     "MOBILE_ACTIONSHEET_BACKGROUND": [
-      "#80a16a"
+      "#6d7667"
     ],
     "MOBILE_ACTIONSHEET_GRADIENT_BACKGROUND_DEFAULT": [
-      "#80a16a"
+      "#6d7667"
     ],
     "MODAL_BACKGROUND": [
-      "#80a16a"
+      "#6d7667"
     ],
     "MODAL_FOOTER_BACKGROUND": [
-      "#80a16a"
+      "#6d7667"
     ],
     "CARD_BACKGROUND_DEFAULT": [
       "#1e251a"
