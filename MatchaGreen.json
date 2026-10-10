@@ -19,7 +19,7 @@
       "#769d5d"
     ],
     "BACKGROUND_FLOATING": [
-      "#80a16a"
+      "#626f59"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
       "rgba(24, 90, 32, 0.1)"
@@ -247,19 +247,19 @@
       "#20231b"
     ],
     "BACKGROUND_SURFACE_HIGH": [
-      "#80a16a"
+      "#626f59"
     ],
     "MOBILE_ACTIONSHEET_BACKGROUND": [
-      "#80a16a"
+      "#626f59"
     ],
     "MOBILE_ACTIONSHEET_GRADIENT_BACKGROUND_DEFAULT": [
-      "#80a16a"
+      "#626f59"
     ],
     "MODAL_BACKGROUND": [
-      "#80a16a"
+      "#626f59"
     ],
     "MODAL_FOOTER_BACKGROUND": [
-      "#80a16a"
+      "#626f59"
     ],
     "CARD_BACKGROUND_DEFAULT": [
       "#1e251a"
@@ -268,7 +268,7 @@
       "#1e251a"
     ],
     "BACKGROUND_SURFACE_HIGHEST": [
-      "#6d7667"
+      "#303d29"
     ],
     "BACKGROUND_MOD_SUBTLE": [
       "#ffffff0f"
@@ -361,10 +361,10 @@
       "#1f3220"
     ],
     "GUILD_FOLDER_BACKGROUND": [
-      "#6d7667"
+      "#303d29"
     ],
     "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": [
-      "#6d7667"
+      "#303d29"
     ],
     "MOBILE_SEARCHBAR_GRADIENT_BACKGROUND": [
       "#1f3220"
@@ -373,7 +373,7 @@
       "#1a2518"
     ],
     "TABLEROW_BACKGROUND_DEFAULT": [
-      "#6d7667"
+      "#303d29"
     ],
     "TABLEROW_BACKGROUND_PRESSED": [
       "#394931"
@@ -382,10 +382,10 @@
       "#222f1e"
     ],
     "BG_SURFACE_RAISED": [
-      "#6d7667"
+      "#303d29"
     ],
     "CUSTOM_STATUS_BUBBLE_BG": [
-      "#6d7667"
+      "#303d29"
     ],
     "CARD_SECONDARY_BACKGROUND_DEFAULT": [
       "#354b34"
@@ -397,7 +397,7 @@
       "#394931"
     ],
     "CARD_MUTED_BG": [
-      "#6d7667"
+      "#303d29"
     ],
     "CARD_MUTED_PRESSED_BG": [
       "#394931"
@@ -466,10 +466,10 @@
       "#222f1eb3"
     ],
     "PROFILE_GRADIENT_SECTION_BOX": [
-      "#6d7667cc"
+      "#303d29cc"
     ],
     "PROFILE_GRADIENT_NOTE_BACKGROUND": [
-      "#6d7667cc"
+      "#303d29cc"
     ],
     "PROFILE_GRADIENT_ROLE_PILL_BACKGROUND": [
       "#394931cc"
